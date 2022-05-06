@@ -1,0 +1,29 @@
+TRY
+	GET players bet
+	GET players choices
+	GET players balance
+		IF players bet <= player balance
+			GENERATE 2 random numbers between 1 and 2 for coin values
+		ELSE
+			DISPLAY error message that bet is to high
+		ENDIF
+	DISPLAY values of coins
+		IF players choice1 = random number1
+			IF players choice2 = random number2
+				ADD players bet to players balance
+				DISPLAY message that player won
+			ELSE
+				SUBTRACT players bet from players balance
+				DISPLAY message that player lost
+		ELSE
+			SUBTRACT players bet from players balance
+			DISPLAY message that player lost
+		ENDIF
+	DISPLAY new players balance
+	CLEAR bet amount
+	SET focus to bet textbox
+CATCH
+	Display error message
+	CLEAR all input textboxes
+	SET focus to bet textbox
+ENDTRY

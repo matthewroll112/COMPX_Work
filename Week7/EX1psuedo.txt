@@ -1,0 +1,7 @@
+INPUT amount of balls in row
+IF amount of balls in row is LESS THAN display width
+	CALCULATE how many rows can go in display using constants and user input
+	DISPLAY grid of balls starting from top left display using constants
+ELSE
+	DISPLAY error message
+ENDIF
