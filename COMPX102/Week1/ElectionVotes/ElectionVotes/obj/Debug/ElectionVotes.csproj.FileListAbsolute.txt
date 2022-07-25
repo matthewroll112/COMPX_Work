@@ -8,3 +8,13 @@ C:\Users\Matt\Desktop\REPOS\PracP1\ElectionVotes\ElectionVotes\obj\Debug\Electio
 C:\Users\Matt\Desktop\REPOS\PracP1\ElectionVotes\ElectionVotes\obj\Debug\ElectionVotes.csproj.CoreCompileInputs.cache
 C:\Users\Matt\Desktop\REPOS\PracP1\ElectionVotes\ElectionVotes\obj\Debug\ElectionVotes.exe
 C:\Users\Matt\Desktop\REPOS\PracP1\ElectionVotes\ElectionVotes\obj\Debug\ElectionVotes.pdb
+C:\Users\mr239\Desktop\COMPX_Work\COMPX102\Week1\ElectionVotes\ElectionVotes\bin\Debug\ElectionVotes.exe.config
+C:\Users\mr239\Desktop\COMPX_Work\COMPX102\Week1\ElectionVotes\ElectionVotes\bin\Debug\ElectionVotes.exe
+C:\Users\mr239\Desktop\COMPX_Work\COMPX102\Week1\ElectionVotes\ElectionVotes\bin\Debug\ElectionVotes.pdb
+C:\Users\mr239\Desktop\COMPX_Work\COMPX102\Week1\ElectionVotes\ElectionVotes\obj\Debug\ElectionVotes.csproj.AssemblyReference.cache
+C:\Users\mr239\Desktop\COMPX_Work\COMPX102\Week1\ElectionVotes\ElectionVotes\obj\Debug\ElectionVotes.csproj.SuggestedBindingRedirects.cache
+C:\Users\mr239\Desktop\COMPX_Work\COMPX102\Week1\ElectionVotes\ElectionVotes\obj\Debug\ElectionVotes.Properties.Resources.resources
+C:\Users\mr239\Desktop\COMPX_Work\COMPX102\Week1\ElectionVotes\ElectionVotes\obj\Debug\ElectionVotes.csproj.GenerateResource.cache
+C:\Users\mr239\Desktop\COMPX_Work\COMPX102\Week1\ElectionVotes\ElectionVotes\obj\Debug\ElectionVotes.csproj.CoreCompileInputs.cache
+C:\Users\mr239\Desktop\COMPX_Work\COMPX102\Week1\ElectionVotes\ElectionVotes\obj\Debug\ElectionVotes.exe
+C:\Users\mr239\Desktop\COMPX_Work\COMPX102\Week1\ElectionVotes\ElectionVotes\obj\Debug\ElectionVotes.pdb
