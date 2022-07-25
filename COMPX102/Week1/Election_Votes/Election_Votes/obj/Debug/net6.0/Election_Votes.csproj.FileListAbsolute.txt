@@ -1,0 +1,15 @@
+C:\Users\Matt\Desktop\REPOS\PracP1\Election_Votes\Election_Votes\bin\Debug\net6.0\Election_Votes.exe
+C:\Users\Matt\Desktop\REPOS\PracP1\Election_Votes\Election_Votes\bin\Debug\net6.0\Election_Votes.deps.json
+C:\Users\Matt\Desktop\REPOS\PracP1\Election_Votes\Election_Votes\bin\Debug\net6.0\Election_Votes.runtimeconfig.json
+C:\Users\Matt\Desktop\REPOS\PracP1\Election_Votes\Election_Votes\bin\Debug\net6.0\Election_Votes.dll
+C:\Users\Matt\Desktop\REPOS\PracP1\Election_Votes\Election_Votes\bin\Debug\net6.0\Election_Votes.pdb
+C:\Users\Matt\Desktop\REPOS\PracP1\Election_Votes\Election_Votes\obj\Debug\net6.0\Election_Votes.csproj.AssemblyReference.cache
+C:\Users\Matt\Desktop\REPOS\PracP1\Election_Votes\Election_Votes\obj\Debug\net6.0\Election_Votes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\Desktop\REPOS\PracP1\Election_Votes\Election_Votes\obj\Debug\net6.0\Election_Votes.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\REPOS\PracP1\Election_Votes\Election_Votes\obj\Debug\net6.0\Election_Votes.AssemblyInfo.cs
+C:\Users\Matt\Desktop\REPOS\PracP1\Election_Votes\Election_Votes\obj\Debug\net6.0\Election_Votes.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\REPOS\PracP1\Election_Votes\Election_Votes\obj\Debug\net6.0\Election_Votes.dll
+C:\Users\Matt\Desktop\REPOS\PracP1\Election_Votes\Election_Votes\obj\Debug\net6.0\refint\Election_Votes.dll
+C:\Users\Matt\Desktop\REPOS\PracP1\Election_Votes\Election_Votes\obj\Debug\net6.0\Election_Votes.pdb
+C:\Users\Matt\Desktop\REPOS\PracP1\Election_Votes\Election_Votes\obj\Debug\net6.0\Election_Votes.genruntimeconfig.cache
+C:\Users\Matt\Desktop\REPOS\PracP1\Election_Votes\Election_Votes\obj\Debug\net6.0\ref\Election_Votes.dll
