@@ -1,0 +1,25 @@
+Q. What is the advantage of documenting your code satisfactorily? What is the advantage
+of using /// XML comments?
+
+A. If someone else is looking at your code it makes it easier for them to know what they are looking at, as well as yourself later on. Using XML comments allows you to comment over large sections and give a summarry of the section.
+
+Q. 
+
+10 / 3 * 3 = 10
+10 / 3 * 3.0 = 10.0
+10.0 / 3 * 3 = 10.0
+10 / 3 > 3 = true
+10 % 3 = 1
+"10 / 3" + 3 = Error
+
+Q. How do you cope with the user pressing Cancel in the SaveFileDialog or
+OpenFileDialog?
+
+A. if (saveFileDialog.ShowDialog() == DialogResult.OK)
+
+Q. Does every array and list start at index 0? If not, how do you do this?
+
+A. Every array and list do start at index 0 in c#, you could use a loop starting at 1 and -1 to the index, for instance...
+for(int i = 1; i > num; i++)
+	word = words[i-1]
+	Console.Write(word)
