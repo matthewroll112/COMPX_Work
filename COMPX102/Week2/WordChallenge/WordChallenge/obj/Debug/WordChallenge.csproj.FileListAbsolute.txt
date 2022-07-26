@@ -1,0 +1,8 @@
+C:\Users\mr239\Desktop\COMPX_Work\COMPX102\Week2\WordChallenge\WordChallenge\bin\Debug\WordChallenge.exe.config
+C:\Users\mr239\Desktop\COMPX_Work\COMPX102\Week2\WordChallenge\WordChallenge\bin\Debug\WordChallenge.exe
+C:\Users\mr239\Desktop\COMPX_Work\COMPX102\Week2\WordChallenge\WordChallenge\bin\Debug\WordChallenge.pdb
+C:\Users\mr239\Desktop\COMPX_Work\COMPX102\Week2\WordChallenge\WordChallenge\obj\Debug\WordChallenge.csproj.AssemblyReference.cache
+C:\Users\mr239\Desktop\COMPX_Work\COMPX102\Week2\WordChallenge\WordChallenge\obj\Debug\WordChallenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\mr239\Desktop\COMPX_Work\COMPX102\Week2\WordChallenge\WordChallenge\obj\Debug\WordChallenge.csproj.CoreCompileInputs.cache
+C:\Users\mr239\Desktop\COMPX_Work\COMPX102\Week2\WordChallenge\WordChallenge\obj\Debug\WordChallenge.exe
+C:\Users\mr239\Desktop\COMPX_Work\COMPX102\Week2\WordChallenge\WordChallenge\obj\Debug\WordChallenge.pdb
