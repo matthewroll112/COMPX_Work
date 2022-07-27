@@ -6,18 +6,34 @@
         <link rel="stylesheet" type="text/css" href="main.css"  />
     </head>
     <body>
-        <header>
+        <nav>
             <ul>
                 <li id="title">E-Book Reader: Ulysses by James Joyce</li>
                 <li><a href="index.html" class="active">Home</a></li>
                 <li><a href="about.html">About</a></li>
             </ul>
-        </header>
+        </nav>
         <div class="container">
-            <h1 class="content">Book HERE</h1>
-            <p class="content">Some random words</p>
+            <div class="about">
+                <img src="imgs/cover.jpg" alt="Ulysses Cover" style="height: 200px; width: 180px; margin-left: 2%; margin-top: 2%;"/>
+                <p class="content" style="margin-left: 2%; margin-top: 2%;">
+                    Brief Description: 
+                    <br><br>Ulysses, novel by Irish writer James Joyce, first published in book form in 1922. Stylistically dense 
+                    and exhilarating, it is generally regarded as a masterpiece and has been the subject of numerous volumes of commentary and analysis. The novel is
+                    <br>constructed as a modern parallel to Homer's Odyssey.<br><br><br>
+                    Release Date: December 1920<br>
+                    Language: English<br><br>
+                    Read Full Novel <a href="https://www.gutenberg.org/files/4300/4300-0.txt" target="_blank">Here</a>
+                </p>
+            </div>
+            <div class="book">
+                <button style="display: block; margin-left: auto; margin-right: auto;" onclick="openBook()">Open Book</button>
+                <textarea readonly>
+                    
+                </textarea>
+            </div>
         </div>
-        <footer>
+        <footer id="foot">
             <p>Matthew Rolleston &copy;</p>
         </footer>
     </body>

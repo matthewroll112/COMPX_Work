@@ -10,26 +10,27 @@ namespace WordChallenge
     {
         static void Main(string[] args)
         {
-            //variable for value of word
-            int num = 0;
-            int count = 0;
-            //User input
+            //Variables
+            int value = 0;
+
+            //user input
             Console.Write("Enter a word: ");
             string word = Console.ReadLine().ToUpper();
-            var charArr = word.ToCharArray();
-           
-            //For loop to display chars using ascii values
-            for(int i = 65; i < 65+26; i++)
+            char[] chars = word.ToCharArray();
+
+            //loop to loop through all of alphabet
+            for (int i = 0; i < chars.Length; i++)
             {
-                //Console.WriteLine(Convert.ToChar(i) + " = $" + Convert.ToString(i - 64));
-                if(Convert.ToChar(i) == )
+                for (int j = 65; j < 65 + 26; j++)
                 {
-                    num = num + (i - 64);
-                    count++;
+                    if (chars[i] == Convert.ToChar(j))
+                    {
+                        value += j - 64;
+                    }
                 }
             }
 
-            Console.WriteLine("Your word equals $" + num);
+            Console.WriteLine("Your word is " + word + "\nThe value is: " + value);
             Console.WriteLine("-------------------------------------");
             Console.WriteLine("Press enter to end...");
             Console.ReadLine();
